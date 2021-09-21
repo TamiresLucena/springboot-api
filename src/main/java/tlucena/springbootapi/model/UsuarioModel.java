@@ -1,4 +1,4 @@
-package tlucena.springbootapi.models;
+package tlucena.springbootapi.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

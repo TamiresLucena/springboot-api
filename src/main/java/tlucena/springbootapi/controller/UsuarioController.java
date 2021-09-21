@@ -3,7 +3,7 @@ package tlucena.springbootapi.controller;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import tlucena.springbootapi.models.UsuarioModel;
+import tlucena.springbootapi.model.UsuarioModel;
 import tlucena.springbootapi.repository.UsuarioRepository;
 
 @RestController
